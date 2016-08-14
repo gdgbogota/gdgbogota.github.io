@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "GDG Bogotá",
+  "launch_path": "/index.html",
+  "description": "Sitio web del Grupo de Desarrolladores Google, capítulo Bogotá",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Diego Coy",
+    "url": "diegocoy.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "es",
+  "permissions": {
+  },
+  "locales": {
+    "es": {
+      "name": "GDG Bogotá",
+      "description": "Sitio web del Grupo de Desarrolladores Google, capítulo Bogotá"
+    },
+    "en": {
+      "name": "GDG Bogotá",
+      "description": "Google Developers Group stite, Bogotá chapter"
+    }
+  }
+}

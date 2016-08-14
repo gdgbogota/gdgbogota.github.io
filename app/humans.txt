@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  <Diego Coy> -- <dev> -- <@unJavaScripter>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, JS

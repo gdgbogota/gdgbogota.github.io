@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Diego Coy",
+    "pic": "diegocoy.jpg",
+    "area": "Web",
+    "social": [
+      {"network": "twitter", "url": "https://twitter.com/unjavascripter"}
+    ],
+    "linkTo": "twitter"
+  },
+  {
+    "name": "Maciek Ruckgaber",
+    "pic": "maciekruckgaber.jpg",
+    "area": "Cloud Services",
+    "social": [
+      {"network": "plus", "url": "https://plus.google.com/u/0/+MaciekRuckgaber"}
+    ],
+    "linkTo": "plus"
+  },
+  {
+    "name": "Nicolás Molina Monroy",
+    "pic": "nicolasmolinamonroy.jpg",
+    "area": "hybrid",
+    "social": [
+      {"network": "website", "url": "http://www.nicobytes.com/"}
+    ],
+    "linkTo": "website"
+  },
+  {
+    "name": "Santiago Carrillo",
+    "pic": "santiagocarrillo.jpg",
+    "area": "Android",
+    "social": [
+      {"network": "linkedin", "url": "https://www.linkedin.com/in/sancarbar"}
+    ],
+    "linkTo": "linkedin"
+  }
+]
