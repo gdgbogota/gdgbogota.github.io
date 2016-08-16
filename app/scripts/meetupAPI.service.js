@@ -9,7 +9,7 @@
  * @return {object} Una promesa.
  */
 function meetupAPIService(groupName) {
-  return fetch(`http://stuff7723.cloudapp.net:8090/api/events/${groupName}/`).then(response => {
+  return fetch(`https://diegocoy.com/meetup/events/${groupName}/`).then(response => {
     return response.json();
   })
   .then(data => {
@@ -17,7 +17,7 @@ function meetupAPIService(groupName) {
       return false;
     }
 
-    return fetch(`http://stuff7723.cloudapp.net:8090/api/events/${groupName}/${data.next_event.id}`).then(eventResponse => {
+    return fetch(`https://diegocoy.com/meetup/events/${groupName}/${data.next_event.id}`).then(eventResponse => {
       return eventResponse.json();
     })
     .catch(err => err);
