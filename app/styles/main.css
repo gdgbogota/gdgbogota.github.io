@@ -193,4 +193,5 @@ footer {
   padding-top: 5rem;
   height: 5rem;
   background-color: #432065;
+  transform: translateY(100%);
 }
