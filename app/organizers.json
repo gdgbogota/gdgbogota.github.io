@@ -18,15 +18,6 @@
     "linkTo": "plus"
   },
   {
-    "name": "Nicolás Molina Monroy",
-    "pic": "nicolasmolinamonroy.jpg",
-    "area": "hybrid",
-    "social": [
-      {"network": "website", "url": "http://www.nicobytes.com/"}
-    ],
-    "linkTo": "website"
-  },
-  {
     "name": "Santiago Carrillo",
     "pic": "santiagocarrillo.jpg",
     "area": "Android",
